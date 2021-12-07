@@ -1,0 +1,171 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/findIDs.txt
+
+NOTES: Testing use of IDs for HashTable
+-----------------------------------------------------
+
+Total number of songs read 59600
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Done with MyTunes.
+
+Process finished with exit code 0
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/findGenres.txt
+
+NOTES: Testing use of genres for HashTable
+-----------------------------------------------------
+
+Total number of songs read 59600
+Test file for genre table: resources/findGenres.txt
+
+Number of store songs in each genre:
+classic pop and rock 	  23895
+                punk 	   3200
+                folk 	  13192
+                 pop 	   1617
+dance and electronica 	   4935
+               metal 	   2103
+      jazz and blues 	   4334
+           classical 	   1874
+             hip-hop 	    434
+     soul and reggae 	   4016
+
+Finding genre: pop
+Genre "pop" found in tableOfGenres.
+
+Finding genre: classic pop and rock
+Genre "classic pop and rock" found in tableOfGenres.
+
+Finding genre: FOOTHILL
+Genre "FOOTHILL" NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+Process finished with exit code 0
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/newIDs.txt
+
+NOTES: Testing use of new IDs for HashTable [see first half]
+-----------------------------------------------------
+
+/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50134:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/michaelzhao/Desktop/CS 1C/mzhao80-cs1c-project07/out/production/mzhao80-cs1c-project07:/Users/michaelzhao/Desktop/CS 1C/mzhao80-cs1c-project07/lib/json-simple-1.1.1.jar hashTables.MyTunes
+Total number of songs read 59600
+Test file for id table: resources/newIDs.txt
+
+Finding song id: 9
+Song id 9 found in tableOfSongIDs.
+
+Finding song id: 13
+Song id 13 found in tableOfSongIDs.
+
+Warning: Input "12931920839012" is not a valid number. Skipping.
+Done with testing table of ids.
+
+Test file for genre table: resources/newGenres.txt
+
+Number of store songs in each genre:
+classic pop and rock 	  23895
+                punk 	   3200
+                folk 	  13192
+                 pop 	   1617
+dance and electronica 	   4935
+               metal 	   2103
+      jazz and blues 	   4334
+           classical 	   1874
+             hip-hop 	    434
+     soul and reggae 	   4016
+
+Finding genre: FOOTHILL
+Genre "FOOTHILL" NOT found in tableOfGenres.
+
+Finding genre: classic pop and rock
+Genre "classic pop and rock" found in tableOfGenres.
+
+Finding genre: error genre
+Genre "error genre" NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+Process finished with exit code 0
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/newGenres.txt
+
+NOTES: Testing use of new genres for HashTable [see seconds half]
+-----------------------------------------------------
+
+/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50134:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/michaelzhao/Desktop/CS 1C/mzhao80-cs1c-project07/out/production/mzhao80-cs1c-project07:/Users/michaelzhao/Desktop/CS 1C/mzhao80-cs1c-project07/lib/json-simple-1.1.1.jar hashTables.MyTunes
+Total number of songs read 59600
+Test file for id table: resources/newIDs.txt
+
+Finding song id: 9
+Song id 9 found in tableOfSongIDs.
+
+Finding song id: 13
+Song id 13 found in tableOfSongIDs.
+
+Warning: Input "12931920839012" is not a valid number. Skipping.
+Done with testing table of ids.
+
+Test file for genre table: resources/newGenres.txt
+
+Number of store songs in each genre:
+classic pop and rock 	  23895
+                punk 	   3200
+                folk 	  13192
+                 pop 	   1617
+dance and electronica 	   4935
+               metal 	   2103
+      jazz and blues 	   4334
+           classical 	   1874
+             hip-hop 	    434
+     soul and reggae 	   4016
+
+Finding genre: FOOTHILL
+Genre "FOOTHILL" NOT found in tableOfGenres.
+
+Finding genre: classic pop and rock
+Genre "classic pop and rock" found in tableOfGenres.
+
+Finding genre: error genre
+Genre "error genre" NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+Process finished with exit code 0
+
+
+-----------------------------------------------------

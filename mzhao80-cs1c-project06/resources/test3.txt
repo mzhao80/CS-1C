@@ -1,0 +1,6 @@
+add bananas
+add lemons
+buy bananas
+buy oranges
+buy lemons
+add apples

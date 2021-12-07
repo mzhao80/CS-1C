@@ -1,0 +1,20 @@
+udon,35.52
+vanilla,20.89
+watermelons,14.17
+xigua,46.07
+yams,65.72
+zucchini,83.11
+almonds,3.49
+basil,24.64
+coconut,90.40
+dill pickles,34.22
+eggs,33.09
+falafel,87.67
+garbanzo,9.22
+honey,17.38
+iceberg lettuce,40.36
+jelly beans,40.32
+kebabs,10.77
+lasagna,89.75
+meatloaf,83.88
+nutella,90.34

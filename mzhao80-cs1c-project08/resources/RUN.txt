@@ -1,0 +1,30 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test output file: resources/quicksortLimitData.csv
+
+NOTES: Time debugging output below, results in file named above
+-----------------------------------------------------
+Current size: 20000, Elapsed Time/Size: 0 hrs : 0 mins : 1 sec : 660 ms : 685616 ns, Running Total: 0 hrs : 0 mins : 1 sec : 662 ms : 348825 ns
+Current size: 520000, Elapsed Time/Size: 0 hrs : 1 mins : 4 sec : 158 ms : 31235 ns, Running Total: 0 hrs : 1 mins : 5 sec : 827 ms : 740674 ns
+Current size: 1020000, Elapsed Time/Size: 0 hrs : 2 mins : 17 sec : 277 ms : 747391 ns, Running Total: 0 hrs : 3 mins : 23 sec : 105 ms : 548117 ns
+Current size: 1520000, Elapsed Time/Size: 0 hrs : 3 mins : 51 sec : 912 ms : 570893 ns, Running Total: 0 hrs : 7 mins : 15 sec : 18 ms : 199578 ns
+Current size: 2020000, Elapsed Time/Size: 0 hrs : 5 mins : 10 sec : 472 ms : 624810 ns, Running Total: 0 hrs : 12 mins : 25 sec : 490 ms : 889320 ns
+Current size: 2520000, Elapsed Time/Size: 0 hrs : 7 mins : 20 sec : 403 ms : 324951 ns, Running Total: 0 hrs : 19 mins : 45 sec : 894 ms : 281978 ns
+Current size: 3020000, Elapsed Time/Size: 0 hrs : 8 mins : 56 sec : 624 ms : 298583 ns, Running Total: 0 hrs : 28 mins : 42 sec : 518 ms : 704842 ns
+Current size: 3520000, Elapsed Time/Size: 0 hrs : 10 mins : 24 sec : 138 ms : 837796 ns, Running Total: 0 hrs : 39 mins : 6 sec : 657 ms : 713371 ns
+Current size: 4020000, Elapsed Time/Size: 0 hrs : 12 mins : 19 sec : 485 ms : 871122 ns, Running Total: 0 hrs : 51 mins : 26 sec : 143 ms : 688164 ns
+Current size: 4520000, Elapsed Time/Size: 0 hrs : 13 mins : 47 sec : 838 ms : 463163 ns, Running Total: 1 hrs : 5 mins : 13 sec : 982 ms : 231848 ns
+Current size: 5020000, Elapsed Time/Size: 0 hrs : 15 mins : 59 sec : 552 ms : 350684 ns, Running Total: 1 hrs : 21 mins : 13 sec : 534 ms : 654203 ns
+Current size: 5520000, Elapsed Time/Size: 0 hrs : 17 mins : 17 sec : 479 ms : 138309 ns, Running Total: 1 hrs : 38 mins : 31 sec : 13 ms : 881276 ns
+Current size: 6020000, Elapsed Time/Size: 0 hrs : 20 mins : 10 sec : 29 ms : 54691 ns, Running Total: 1 hrs : 58 mins : 41 sec : 43 ms : 49417 ns
+Current size: 6520000, Elapsed Time/Size: 0 hrs : 22 mins : 16 sec : 609 ms : 658510 ns, Running Total: 2 hrs : 20 mins : 57 sec : 652 ms : 779533 ns
+Current size: 7020000, Elapsed Time/Size: 0 hrs : 24 mins : 11 sec : 683 ms : 28806 ns, Running Total: 2 hrs : 45 mins : 9 sec : 335 ms : 875503 ns
+Current size: 7520000, Elapsed Time/Size: 0 hrs : 25 mins : 56 sec : 907 ms : 392005 ns, Running Total: 3 hrs : 11 mins : 6 sec : 243 ms : 334957 ns
+Current size: 8020000, Elapsed Time/Size: 0 hrs : 28 mins : 5 sec : 572 ms : 795650 ns, Running Total: 3 hrs : 39 mins : 11 sec : 816 ms : 214271 ns
+Current size: 8520000, Elapsed Time/Size: 0 hrs : 30 mins : 16 sec : 666 ms : 450348 ns, Running Total: 4 hrs : 9 mins : 28 sec : 482 ms : 730560 ns
+Current size: 9020000, Elapsed Time/Size: 0 hrs : 31 mins : 55 sec : 262 ms : 14304 ns, Running Total: 4 hrs : 41 mins : 23 sec : 744 ms : 809336 ns
+Current size: 9520000, Elapsed Time/Size: 0 hrs : 33 mins : 58 sec : 186 ms : 745119 ns, Running Total: 5 hrs : 15 mins : 21 sec : 931 ms : 620211 ns
+Current size: 10020000, Elapsed Time/Size: 0 hrs : 36 mins : 18 sec : 951 ms : 602761 ns, Running Total: 5 hrs : 51 mins : 40 sec : 883 ms : 291746 ns
+Done. Total Elapsed Time: 5 hrs : 51 mins : 40 sec : 883 ms : 341684 ns
+
+Process finished with exit code 0

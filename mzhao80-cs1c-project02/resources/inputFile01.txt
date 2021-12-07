@@ -1,0 +1,20 @@
+apples,13.91
+bananas,25.06
+cherries,40.14
+durians,21.72
+eggplants,13.92
+fudge,8.18
+garlic,62.59
+hot dogs,7.70
+ice cream,16.40
+jam,79.62
+kale,18.72
+lemonade,63.14
+marmalade,33.88
+nacho,92.78
+oranges,23.80
+pecans,89.66
+quinoa,22.64
+raisins,13.85
+salmon,66.57
+tangerines,28.92
